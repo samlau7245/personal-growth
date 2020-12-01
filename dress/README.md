@@ -1,4 +1,4 @@
 <!-- 
-/Users/shanliu/Documents/github/GitBook/personal-growth-master/dress
+/Users/shanliu/Documents/github/GitBook/personal-growth-master/assets/images/dress 
 <img src="/assets/images/dress/01.png"> 
 -->

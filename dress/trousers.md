@@ -14,5 +14,9 @@
 
 <img src="/assets/images/dress/03.png">
 
+* 日系直筒休闲工装裤
+
+<img src="/assets/images/dress/04.png">
+
 ## 牛仔裤
 
